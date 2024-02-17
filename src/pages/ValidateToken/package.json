@@ -1,0 +1,6 @@
+{
+  "name": "ValidateToken",
+  "version": "0.0.0",
+  "main": "ValidateToken.js",
+  "private": true
+}

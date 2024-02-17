@@ -1,0 +1,6 @@
+{
+  "name": "CustomLogin",
+  "version": "0.0.0",
+  "main": "CustomLogin.js",
+  "private": true
+}

@@ -1,0 +1,6 @@
+{
+  "name": "VerifyEmail",
+  "version": "0.0.0",
+  "main": "VerifyEmail.js",
+  "private": true
+}
